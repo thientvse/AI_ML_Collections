@@ -19,6 +19,3 @@ I'd like to improve this library with your help! If you've fixed a bug or have a
 
 
 
-## License
-
-A short snippet describing the license (MIT, Apache, etc.)
